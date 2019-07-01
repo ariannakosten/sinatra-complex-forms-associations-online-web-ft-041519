@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class OwnersController < ApplicationController
 
   get '/owners' do
@@ -45,3 +46,5 @@ class OwnersController < ApplicationController
   end
   
 end
+=======
+>>>>>>> dffd575f3dc28bb4906fc1c203a16b85c8885a17
